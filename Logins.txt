@@ -1,0 +1,8 @@
+(Emails)->
+minhajadmin@gmail.com
+minhajstudent@gmail.com
+minhajparent@gmail.com
+(Passwords)->
+12345678
+->
+
